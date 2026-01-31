@@ -15,6 +15,7 @@ app.add_middleware(
         "http://localhost:3000",
         "https://vmtb.netlify.app",
         "https://www.vmtb.in",
+        "https://server.vmtb.in",
     ],
     allow_credentials=True,
     allow_methods=["*"],
